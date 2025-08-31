@@ -28,6 +28,7 @@ NOTE : don't forget to press the backspace once the typing timer is over on monk
 
 <H1>🤔 How does this work ?</H1>
 The code works with the help of three main libraries in python.
+
 1. pyautogui -> which is used to take the screenshot and save it inside the working folder, also it provides the keyboard access to type in the words and take the mouse coordinates to define the area in which screenshot needs to be taken for the text extraction.
 2. PIL -> which lets the main code gain the access of the screenshot image in the folder.
 3. pytesseract -> which is used to extract text from the image in the form of string.
