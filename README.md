@@ -6,6 +6,7 @@ It's a program created specifically to type automatcally on monkey.com website w
 
 
 <H1>🐒 How to use it ?</H1>
+
 1. Make sure python is installed in your system.
 2. Install the pytesseract,PIL and pyautogui libraries by typing in your cmd "pip install pytesseract", "pip install pyautogui" and "pip install pillow".
 3. Install the tesseract.exe from the github link "https://github.com/UB-Mannheim/tesseract/wiki" and provide it's location in your environment path.
